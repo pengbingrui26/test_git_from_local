@@ -5,4 +5,5 @@ int main(){
 	std::cout << "change test2 on remote" << std::endl;
 	std::cout << "change test2 on local" << std::endl;
 	std::cout << "change test2 on remote" << std::endl;
+	std::cout << "change test2 on local" << std::endl;
 }
